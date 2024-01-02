@@ -57,9 +57,3 @@ No GitHub, publico vários projetos pessoais relacionados à ciência de dados e
 Fique à vontade para explorar meus projetos e entrar em contato comigo. Estou animado para compartilhar meu conhecimento e colaborar em projetos interessantes.
 
 
-
-LightShot:
-https://app.prntscr.com/pt-br/download.html
-
-IMG BB:
-https://pt-br.imgbb.com/
