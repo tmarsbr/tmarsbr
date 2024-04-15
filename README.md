@@ -16,7 +16,6 @@ Meu nome é Tiago, tenho 28 anos e estou em transição de carreira para a área
 - Comunicativo
 - Trabalho em equipe
 - Proatividade
-- Senso de liderança
 - Aprendizado rápido
 - Autodidata
 
