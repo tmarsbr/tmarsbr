@@ -25,7 +25,7 @@ Meu nome é Tiago, tenho 28 anos e estou em transição de carreira para a área
 ### Projeto: Análise de Dados da Polícia Rodoviária Federal
 - **Objetivo**: Utilizar dados de radares de velocidade para estudar a segurança nas rodovias, identificando padrões de acidentes.
 - **Tecnologias**: Python (Pandas, Matplotlib), SQL.
-
+- [Projeto Completo](https://github.com/tmarsbr/analise-PRF-/blob/main/An%C3%A1lise%20de%20Dados%20da%20Pol%C3%ADcia%20Rodovi%C3%A1ria%20Federal.ipynb)
 ### Projeto: Análise de Vendas Farmacêuticas
 - **Objetivo**: Analisar as tendências e características das vendas farmacêuticas para otimizar estratégias de mercado.
 - **Tecnologias**: Python (Seaborn, Numpy), PowerBI.
