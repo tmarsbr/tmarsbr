@@ -10,7 +10,7 @@ Meu nome é Tiago, tenho 28 anos e estou em transição de carreira para a área
 - **SQL**: Manipulação e consulta de grandes bases de dados.
 - **Machine Learning**: Experiência com modelos supervisionados e não supervisionados.
 - **Ferramentas de Análise de Dados**: Excel e PowerBI, com conhecimentos em estatística descritiva e inferencial.
-- **AWS: EMR, S3, lambda, redshift etc.
+- **AWS**: EMR, S3, lambda, redshift etc.
 ## Soft Skills:
 
 - Comunicativo
