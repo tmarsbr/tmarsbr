@@ -25,10 +25,11 @@ Meu nome é Tiago, tenho 28 anos e estou em transição de carreira para a área
 - **Objetivo**: Utilizar dados de radares de velocidade para estudar a segurança nas rodovias, identificando padrões de acidentes.
 - **Tecnologias**: Python (Pandas, Matplotlib), SQL.
 - [Projeto Completo](https://github.com/tmarsbr/analise-PRF-?tab=readme-ov-file)
+- [NoteBook](https://github.com/tmarsbr/analise-PRF-/blob/main/An%C3%A1lise%20de%20Dados%20da%20Pol%C3%ADcia%20Rodovi%C3%A1ria%20Federal.ipynb)
 ### Projeto: Análise de Vendas Farmacêuticas
 - **Objetivo**: Analisar as tendências e características das vendas farmacêuticas para otimizar estratégias de mercado.
 - **Tecnologias**: Python (Seaborn, Numpy), PowerBI.
-
+- [NoteBook]()
 ### Projeto: Santander Customer Transaction Prediction
 - **Objetivo**: Prever transações futuras de clientes do banco Santander usando modelos de Machine Learning.
 - **Tecnologias**: Python (scikit-learn), Machine Learning (modelos supervisionados).
