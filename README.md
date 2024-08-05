@@ -2,7 +2,7 @@
 
 ## Sobre Mim:
 
-Meu nome é Tiago, tenho 28 anos e estou em transição de carreira para a área de análise de dados. Estou me preparando para iniciar um curso de Data Science na FIAP e possuo experiência com Python, SQL, e suas bibliotecas voltadas para análise de dados e Machine Learning.
+Meu nome é Tiago, tenho 28 anos e estou em transição de carreira para a área de análise de dados. Estou me preparando para iniciar um curso de Data Science na Estacio e possuo experiência com Python, SQL, e suas bibliotecas voltadas para análise de dados e Machine Learning.
 
 ## Experiência:
 
