@@ -38,6 +38,6 @@ Meu nome é Tiago, tenho 28 anos e estou em transição de carreira para a área
 
 Quer entrar em contato comigo? Envie um e-mail para: [tiagomars233@gmail.com](mailto:tiagomars233@gmail.com)
 
-Você também pode me encontrar no LinkedIn para mais detalhes sobre minha trajetória profissional. [Linkedin](/in/tiagocientistadados).
+Você também pode me encontrar no LinkedIn para mais detalhes sobre minha trajetória profissional. 
 
 Fique à vontade para explorar meus projetos aqui no GitHub. Estou sempre disponível para colaborar em projetos interessantes e compartilhar conhecimentos.
