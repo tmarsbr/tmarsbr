@@ -4,7 +4,7 @@ Olá 👋 Me chamo Tiago, sou um Cientista de Dados em transição de carreira c
 Possuo uma experiência comprovada em projetos de análise de dados, incluindo análise de crédito, People Analytics e Score Anti-Fraude. Meu background em Ciência de Dados me permite aplicar técnicas avançadas de regressão, classificação e otimização, o que acredito ser altamente relevante para os desafios que vocês enfrentam.
 
 ## Projetos Práticos
-- **Análise Exploratória de Dados - Spotify Most Streamed Songs**
+- **Análise Exploratória de Dados - Spotify Most Streamed Songs**[Repositório GitHub](https://github.com/tmarsbr/EDA)
   - 📊 **Sobre o Projeto**: Este projeto realiza uma análise exploratória detalhada das músicas mais tocadas no Spotify, utilizando técnicas de Data Science e ferramentas de visualização de dados em Python. O estudo visa compreender os fatores que contribuem para o sucesso das músicas na plataforma.
 
 - **Análise dos Acidentes nas Rodovias Brasileiras**: [Repositório GitHub](https://github.com/tmarsbr/analise-PRF-)
