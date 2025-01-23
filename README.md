@@ -1,7 +1,9 @@
 ## Sobre Mim
-Olá 👋 Me chamo Tiago, sou um Cientista de Dados em transição de carreira com uma sólida experiência em Python, Estatística, Machine Learning e SQL.
+Olá 👋, me chamo Tiago e sou um Cientista de Dados em transição de carreira. Tenho uma sólida experiência em Python, Estatística, Machine Learning e SQL.
 
-Possuo uma experiência comprovada em projetos de análise de dados, incluindo análise de crédito, People Analytics e Score Anti-Fraude. Meu background em Ciência de Dados me permite aplicar técnicas avançadas de regressão, classificação e otimização, o que acredito ser altamente relevante para os desafios que vocês enfrentam.
+Ao longo da minha trajetória, adquiri uma experiência comprovada em projetos de análise de dados, incluindo análise de crédito, People Analytics e Score Anti-Fraude. Minha formação em Ciência de Dados me permite aplicar técnicas avançadas de regressão, classificação e otimização, habilidades que considero altamente relevantes para enfrentar os desafios atuais do mercado.
+
+Sou apaixonado por transformar dados em insights valiosos e estou sempre em busca de novos desafios para expandir meus conhecimentos e contribuir de forma significativa para os projetos em que estou envolvido.
 
 ## Projetos Práticos de Data e Analytics
 - **Análise Exploratória de Dados - Spotify Most Streamed Songs**: [Repositório GitHub](https://github.com/tmarsbr/EDA)
@@ -16,24 +18,19 @@ Possuo uma experiência comprovada em projetos de análise de dados, incluindo a
 - **Score Anti-Fraude**: Implementação de algoritmos para detecção e prevenção de fraudes.
 
 ## Cursos e Especializações
-- **Estrutura de dados e algoritmo expert**
-  - Instituição: DevSuperior (Prof. Nélio Alves)
-  - Duração: Média (41 a 360 horas)
-  - Ano: 2025
-
-- **Lógica de programação expert**
-  - Instituição: DevSuperior (Prof. Nélio Alves)
+- **Formação em Analista de Dados**
+  - Instituição: Pod Academy
   - Duração: Curta (até 40 horas)
-  - Ano: 2025
+  - Ano: 2023
 
-- **Formação em engenharia de dados do zero ao book de variáveis**
+- **Formação em Ciência de Dados**
   - Instituição: Pod Academy
   - Duração: Longa (acima de 360 horas)
-  - Ano: 2025
+  - Ano: 2024
 
-- **Git/GitHub**
-  - Instituição: Jornada dos Dados
-  - Duração: Curta (até 40 horas)
+- **Formação em Engenharia de Dados do Zero ao Book de Variáveis**
+  - Instituição: Pod Academy
+  - Duração: Longa (acima de 360 horas)
   - Ano: 2025
 
 - **Cloud AWS / Bootcamp AWS**
@@ -56,19 +53,25 @@ Possuo uma experiência comprovada em projetos de análise de dados, incluindo a
   - Duração: Curta (até 40 horas)
   - Ano: 2024
 
-- **Formação em Ciência de Dados**
-  - Instituição: Pod Academy
-  - Duração: Longa (acima de 360 horas)
-  - Ano: 2024
+- **Estrutura de Dados e Algoritmo Expert**
+  - Instituição: DevSuperior (Prof. Nélio Alves)
+  - Duração: Média (41 a 360 horas)
+  - Ano: 2025
 
-- **Formação em Analista de Dados**
-  - Instituição: Pod Academy
+- **Lógica de Programação Expert**
+  - Instituição: DevSuperior (Prof. Nélio Alves)
   - Duração: Curta (até 40 horas)
-  - Ano: 2023
+  - Ano: 2025
+
+- **Git/GitHub**
+  - Instituição: Jornada dos Dados
+  - Duração: Curta (até 40 horas)
+  - Ano: 2025
 
 ## Contato
 Tiago Da Silva E Santo  
 São Paulo, SP  
 (11) 97542-9994  
-[LinkedIn](www.linkedin.com/in/tiagocientistadados)
+[LinkedIn](www.linkedin.com/in/tiagocientistadados)  
+[E-mail](mailto:tiagomars233@gmail.com)
 
