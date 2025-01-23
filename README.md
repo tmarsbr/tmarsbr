@@ -9,11 +9,11 @@ Sou apaixonado por transformar dados em insights valiosos e estou sempre em busc
 - **Análise Exploratória de Dados - Spotify Most Streamed Songs**: [Repositório GitHub](https://github.com/tmarsbr/EDA)
   - 📊 **Sobre o Projeto**: Este projeto realiza uma análise exploratória detalhada das músicas mais tocadas no Spotify, utilizando técnicas de Data Science e ferramentas de visualização de dados em Python. O estudo visa compreender os fatores que contribuem para o sucesso das músicas na plataforma.
 
-- **Análise dos Acidentes nas Rodovias Brasileiras**: [Repositório GitHub](https://github.com/tmarsbr/analise-PRF-)
+- 📊 **Análise dos Acidentes nas Rodovias Brasileiras**: [Repositório GitHub](https://github.com/tmarsbr/analise-PRF-)
   - **Sobre o Projeto**: Este projeto se propõe a investigar os acidentes ocorridos nas estradas brasileiras, com um olhar especial para sua relação com a localização dos radares. Com base em uma forte combinação de análise estatística e geoespacial, examinamos muitos aspectos da segurança rodoviária e da eficácia do radar.
 
 ## Projetos em Andamento
-- 📊 **Análise de Crédito**: Desenvolvimento de modelos preditivos para avaliação de risco de crédito.
+- **Análise de Crédito**: Desenvolvimento de modelos preditivos para avaliação de risco de crédito.
   - [Post Início do Projeto](https://www.linkedin.com/pulse/an%C3%A1lise-de-cr%C3%A9dito-o-in%C3%ADcio-uma-nova-jornada-em-ci%C3%AAncia-tiago-silva-070zf/?trackingId=I%2FKtlovKdoNnHe6quw1mqA%3D%3D)
   - [Post da Segunda Semana](https://www.linkedin.com/in/tiagocientistadados/recent-activity/all/)
 - **People Analytics**: Análise de dados de RH para otimização de processos e tomada de decisões.
