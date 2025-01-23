@@ -13,7 +13,7 @@ Sou apaixonado por transformar dados em insights valiosos e estou sempre em busc
   - **Sobre o Projeto**: Este projeto se propõe a investigar os acidentes ocorridos nas estradas brasileiras, com um olhar especial para sua relação com a localização dos radares. Com base em uma forte combinação de análise estatística e geoespacial, examinamos muitos aspectos da segurança rodoviária e da eficácia do radar.
 
 ## Projetos em Andamento
-- **Análise de Crédito**: Desenvolvimento de modelos preditivos para avaliação de risco de crédito.
+- 📊 **Análise de Crédito**: Desenvolvimento de modelos preditivos para avaliação de risco de crédito.
   - [Post Início do Projeto](https://www.linkedin.com/pulse/an%C3%A1lise-de-cr%C3%A9dito-o-in%C3%ADcio-uma-nova-jornada-em-ci%C3%AAncia-tiago-silva-070zf/?trackingId=I%2FKtlovKdoNnHe6quw1mqA%3D%3D)
   - [Post da Segunda Semana](https://www.linkedin.com/in/tiagocientistadados/recent-activity/all/)
 - **People Analytics**: Análise de dados de RH para otimização de processos e tomada de decisões.
