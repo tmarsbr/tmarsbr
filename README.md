@@ -49,6 +49,6 @@ Sou apaixonado por transformar dados em insights valiosos e estou sempre em busc
 Tiago Da Silva E Santo  
 São Paulo, SP  
 (11) 97542-9994  
-[LinkedIn](www.linkedin.com/in/tiagocientistadados)  
-[E-mail](mailto:tiagomars233@gmail.com)
+LinkedI: www.linkedin.com/in/tiagocientistadados
+E-mail: tiagomars233@gmail.com
 
