@@ -9,8 +9,8 @@ Sou apaixonado por transformar dados em insights valiosos e estou sempre em busc
 - **Análise Exploratória de Dados - Spotify Most Streamed Songs**: [Repositório GitHub](https://github.com/tmarsbr/EDA)
   - 📊 **Sobre o Projeto**: Este projeto realiza uma análise exploratória detalhada das músicas mais tocadas no Spotify, utilizando técnicas de Data Science e ferramentas de visualização de dados em Python. O estudo visa compreender os fatores que contribuem para o sucesso das músicas na plataforma.
 
-- 📊 **Análise dos Acidentes nas Rodovias Brasileiras**: [Repositório GitHub](https://github.com/tmarsbr/analise-PRF-)
-  - **Sobre o Projeto**: Este projeto se propõe a investigar os acidentes ocorridos nas estradas brasileiras, com um olhar especial para sua relação com a localização dos radares. Com base em uma forte combinação de análise estatística e geoespacial, examinamos muitos aspectos da segurança rodoviária e da eficácia do radar.
+-  **Análise dos Acidentes nas Rodovias Brasileiras**: [Repositório GitHub](https://github.com/tmarsbr/analise-PRF-)
+  - 📊 **Sobre o Projeto**: Este projeto se propõe a investigar os acidentes ocorridos nas estradas brasileiras, com um olhar especial para sua relação com a localização dos radares. Com base em uma forte combinação de análise estatística e geoespacial, examinamos muitos aspectos da segurança rodoviária e da eficácia do radar.
 
 ## Projetos em Andamento
 - **Análise de Crédito**: Desenvolvimento de modelos preditivos para avaliação de risco de crédito.
