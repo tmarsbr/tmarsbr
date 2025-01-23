@@ -14,6 +14,8 @@ Sou apaixonado por transformar dados em insights valiosos e estou sempre em busc
 
 ## Projetos em Andamento
 - **Análise de Crédito**: Desenvolvimento de modelos preditivos para avaliação de risco de crédito.
+  - [Post Início do Projeto](https://www.linkedin.com/pulse/an%C3%A1lise-de-cr%C3%A9dito-o-in%C3%ADcio-uma-nova-jornada-em-ci%C3%AAncia-tiago-silva-070zf/?trackingId=I%2FKtlovKdoNnHe6quw1mqA%3D%3D)
+  - [Post da Segunda Semana](https://www.linkedin.com/in/tiagocientistadados/recent-activity/all/)
 - **People Analytics**: Análise de dados de RH para otimização de processos e tomada de decisões.
 - **Score Anti-Fraude**: Implementação de algoritmos para detecção e prevenção de fraudes.
 
