@@ -50,5 +50,5 @@ Tiago Da Silva E Santo
 São Paulo, SP  
 (11) 97542-9994  
 [LinkedIn](https://www.linkedin.com/in/tiagocientistadados)  
-[E-mail]:tiagomars233@gmail.com
+E-mail: tiagomars233@gmail.com
 
