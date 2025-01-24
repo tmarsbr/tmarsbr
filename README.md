@@ -6,7 +6,7 @@ Ao longo da minha trajetória, adquiri uma experiência comprovada em projetos d
 Sou apaixonado por transformar dados em insights valiosos e estou sempre em busca de novos desafios para expandir meus conhecimentos e contribuir de forma significativa para os projetos em que estou envolvido.
 
 ## Projetos Práticos de Data e Analytics
-- **Análise Exploratória de Dados - Spotify Most Streamed Songs**: [Repositório GitHub]([https://github.com/tmarsbr/EDA](https://github.com/tmarsbr/data-analyst-project))
+- **Análise Exploratória de Dados - Spotify Most Streamed Songs**: [Repositório GitHub](https://github.com/tmarsbr/data-analyst-project)
     - 📊 **Sobre o Projeto**: Este projeto realiza uma análise exploratória detalhada das músicas mais tocadas no Spotify, utilizando técnicas de Data Science e ferramentas de visualização de dados em Python. O estudo visa compreender os fatores que contribuem para o sucesso das músicas na plataforma.
 
 -  **Análise dos Acidentes nas Rodovias Brasileiras**: [Repositório GitHub](https://github.com/tmarsbr/analise-PRF-)
