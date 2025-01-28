@@ -12,13 +12,14 @@ Sou apaixonado por transformar dados em insights valiosos e estou sempre em busc
 - **Análise dos Acidentes nas Rodovias Brasileiras**: [Repositório GitHub](https://github.com/tmarsbr/analise-PRF-)
     - 📊 **Sobre o Projeto**: Este projeto se propõe a investigar os acidentes ocorridos nas estradas brasileiras, com um olhar especial para sua relação com a localização dos radares. Com base em uma forte combinação de análise estatística e geoespacial, examinamos muitos aspectos da segurança rodoviária e da eficácia do radar.
 
-- **Projeto de Integração de Dados - Clínicas Sanare e Reviver**
+- **Projeto de Integração de Dados - Clínicas Sanare e Reviver** [Repositório GitHub](https://github.com/tmarsbr/projeto_pipeline)
     - 📊 **Descrição**: Este projeto visa integrar e uniformizar os dados das clínicas Sanare e Reviver durante seu processo de fusão. Utilizamos um pipeline de dados orientado a objetos para garantir a consistência e a qualidade dos dados ao longo do processo. Este projeto faz parte da formação inicial em Engenharia de Dados da Alura.
 
 ## Projetos em Andamento
 - **Análise de Crédito**: Desenvolvimento de modelos preditivos para avaliação de risco de crédito.
   - [Post Início do Projeto](https://www.linkedin.com/pulse/an%C3%A1lise-de-cr%C3%A9dito-o-in%C3%ADcio-uma-nova-jornada-em-ci%C3%AAncia-tiago-silva-070zf/?trackingId=I%2FKtlovKdoNnHe6quw1mqA%3D%3D)
   - [Post da Segunda Semana](https://www.linkedin.com/in/tiagocientistadados/recent-activity/all/)
+  - [Post da terceira semana ]()
 - **People Analytics**: Análise de dados de RH para otimização de processos e tomada de decisões.
 - **Score Anti-Fraude**: Implementação de algoritmos para detecção e prevenção de fraudes.
 
