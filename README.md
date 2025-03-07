@@ -17,8 +17,9 @@ Sou apaixonado por transformar dados em insights valiosos e estou sempre em busc
 
 - **Projeto de Extração e Análise de Repositórios do GitHub**: [Repositório GitHub](https://github.com/tmarsbr/Projeto_api)
     - 📊 **Descrição**: Projeto desenvolvido para extrair dados dos repositórios de grandes empresas e analisar as linguagens de programação mais utilizadas.
+
 - **Pipeline Python - MongoDB - MySQL**
-- 📊 **Descrição**: Projeto Imagine transformar o caos dos dados em insights poderosos. Este projeto é o coração de um pipeline que alimenta decisões estratégicas em uma empresa de e-commerce, conectando tecnologia de ponta com inteligência de negócios.
+    - 📊 **Descrição**: Projeto Imagine transformar o caos dos dados em insights poderosos. Este projeto é o coração de um pipeline que alimenta decisões estratégicas em uma empresa de e-commerce, conectando tecnologia de ponta com inteligência de negócios.
 
 - **Análise de Crédito**: Desenvolvimento de modelos preditivos para avaliação de risco de crédito.
   - [Post Início do Projeto](https://www.linkedin.com/pulse/an%C3%A1lise-de-cr%C3%A9dito-o-in%C3%ADcio-uma-nova-jornada-em-ci%C3%AAncia-tiago-silva-070zf/?trackingId=I%2FKtlovKdoNnHe6quw1mqA%3D%3D)
