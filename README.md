@@ -25,36 +25,42 @@ Sou apaixonado por transformar dados em insights valiosos e estou sempre em busc
   - [Post Início do Projeto](https://www.linkedin.com/pulse/an%C3%A1lise-de-cr%C3%A9dito-o-in%C3%ADcio-uma-nova-jornada-em-ci%C3%AAncia-tiago-silva-070zf/?trackingId=I%2FKtlovKdoNnHe6quw1mqA%3D%3D)
   - [Post da Segunda Semana](https://www.linkedin.com/in/tiagocientistadados/recent-activity/all/)
 
-## Cursos e Especializações
-- **Formação em Analista de Dados**
-  - Instituição: Pod Academy
-  - Duração: Curta (até 40 horas)
-  - Ano: 2023
+## 🎓 Formação Educacional
 
-- **Formação em Ciência de Dados**
-  - Instituição: Pod Academy
-  - Duração: Longa (acima de 360 horas)
-  - Ano: 2024
+### Cursos e Especializações
+| Curso | Instituição | Duração | Ano |
+|-------|-------------|---------|-----|
+| Formação em Analista de Dados | Pod Academy | Curta (até 40 horas) | 2023 |
+| Formação em Ciência de Dados | Pod Academy | Longa (acima de 360 horas) | 2024 |
+| Formação em Engenharia de Dados do Zero ao Book de Variáveis | Pod Academy | Longa (acima de 360 horas) | 2025 |
+| Cloud AWS / Bootcamp AWS | Pod Academy / Data Viking | Curta (até 40 horas) | 2024 |
+| Git/GitHub | Jornada dos Dados | Curta (até 40 horas) | 2025 |
 
-- **Formação em Engenharia de Dados do Zero ao Book de Variáveis**
-  - Instituição: Pod Academy
-  - Duração: Longa (acima de 360 horas)
-  - Ano: 2025
+## 💻 Habilidades Técnicas
 
-- **Cloud AWS / Bootcamp AWS**
-  - Instituição: Pod Academy / Data Viking
-  - Duração: Curta (até 40 horas)
-  - Ano: 2024
+### Linguagens de Programação & Ferramentas
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-- **Git/GitHub**
-  - Instituição: Jornada dos Dados
-  - Duração: Curta (até 40 horas)
-  - Ano: 2025
+### Áreas de Conhecimento
+- **Ciência de Dados**: Análise Exploratória, Estatística, Machine Learning, Modelagem Preditiva
+- **Engenharia de Dados**: ETL, Pipelines de Dados, Integração de Sistemas
+- **Visualização de Dados**: Dashboards Interativos, Storytelling com Dados
+- **Cloud Computing**: Serviços AWS, Computação em Nuvem
 
-## Contato
-Tiago Da Silva E Santo  
+## 📫 Contato
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiagocientistadados)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiagomars233@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511975429994)
+
+**Tiago Da Silva E Santo**  
 São Paulo, SP  
-(11) 97542-9994  
-[LinkedIn](https://www.linkedin.com/in/tiagocientistadados)  
-E-mail: tiagomars233@gmail.com
+</div>
 
