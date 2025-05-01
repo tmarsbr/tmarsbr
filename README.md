@@ -1,5 +1,5 @@
 ## Sobre Mim
-Olá 👋, me chamo Tiago e sou um Cientista de Dados em transição de carreira. Tenho uma sólida experiência em Python, Estatística, Machine Learning e SQL.
+Olá 👋, me chamo Tiago e sou um Cientista de Dados. Tenho uma sólida experiência em Python, Estatística, Machine Learning e SQL.
 
 Ao longo da minha trajetória, adquiri uma experiência comprovada em projetos de análise de dados, incluindo análise de crédito, People Analytics e Score Anti-Fraude. Minha formação em Ciência de Dados me permite aplicar técnicas avançadas de regressão, classificação e otimização, habilidades que considero altamente relevantes para enfrentar os desafios atuais do mercado.
 
