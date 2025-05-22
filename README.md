@@ -4,11 +4,10 @@
 Bem-vindo ao meu portfólio! Este espaço reúne meus principais projetos, experiências e habilidades em Ciência e Engenharia de Dados. O objetivo é apresentar de forma clara e objetiva minha trajetória, competências técnicas e resultados práticos, facilitando o contato com recrutadores, parceiros e demais interessados.
 
 ## Sobre Mim
-Olá 👋, me chamo Tiago e sou um Cientista de Dados. Tenho uma sólida experiência em Python, Estatística, Machine Learning e SQL.
 
-Ao longo da minha trajetória, adquiri uma experiência comprovada em projetos de análise de dados, incluindo análise de crédito, People Analytics e Score Anti-Fraude. Minha formação em Ciência de Dados me permite aplicar técnicas avançadas de regressão, classificação e otimização, habilidades que considero altamente relevantes para enfrentar os desafios atuais do mercado.
+Olá! Sou Tiago, Cientista de Dados apaixonado por transformar dados em soluções estratégicas. Tenho experiência sólida em Python, Estatística, Machine Learning e SQL, atuando em projetos que vão desde análise de crédito e People Analytics até integração de dados e modelagem preditiva.
 
-Sou apaixonado por transformar dados em insights valiosos e estou sempre em busca de novos desafios para expandir meus conhecimentos e contribuir de forma significativa para os projetos em que estou envolvido.
+Minha missão é gerar valor a partir de dados, combinando rigor analítico, criatividade e visão de negócio. Estou sempre em busca de novos desafios, aprendizados e oportunidades para impactar positivamente empresas e pessoas por meio da ciência de dados.
 
 ## Projetos Práticos de Data e Analytics
 <!-- SUGESTÃO: Insira aqui uma imagem ou gráfico de destaque dos seus projetos principais -->
