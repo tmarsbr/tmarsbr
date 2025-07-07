@@ -24,7 +24,7 @@ Sinta-se à vontade para entrar em contato através dos links no final da págin
 
 ## Sobre Mim
 
-Meu nome é Tiago Silva, sou formado em Tornearia Mecânica e atuo há anos na área de usinagem, operando tornos mecânicos para fabricar peças metálicas com precisão. Atualmente, trabalho de forma autônoma, especializado na usinagem de cadinhos de grafite para fundição, o que me trouxe habilidades em resolução de problemas e atenção aos detalhes.
+Meu nome é Tiago Silva, atuo há anos na área de usinagem, operando tornos mecânicos para fabricar peças metálicas com precisão. Atualmente, trabalho de forma autônoma, especializado na usinagem de cadinhos de grafite para fundição, o que me trouxe habilidades em resolução de problemas e atenção aos detalhes.
 
 Nos últimos anos, venho migrando para a área de Ciência de Dados, aplicando minha experiência prática e visão analítica para desenvolver soluções baseadas em dados.
 
