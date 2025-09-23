@@ -1,4 +1,4 @@
-# � Tiago Silva - Transformando Dados em Soluções de Negócio
+#  Tiago Silva - Transformando Dados em Soluções de Negócio
 
 > **"De problemas complexos a insights acionáveis - especialista em extrair valor de dados para impulsionar decisões estratégicas"**
 
