@@ -1,106 +1,143 @@
-<!-- Boas-vindas! -->
-# Boas Vindas
+# � Tiago Silva - Transformando Dados em Soluções de Negócio
 
-Olá, seja muito bem-vindo(a) ao meu portfólio de projetos de Ciência de Dados.
+> **"De problemas complexos a insights acionáveis - especialista em extrair valor de dados para impulsionar decisões estratégicas"**
 
-Nesta página, demonstro minhas habilidades em resolver problemas de negócio utilizando conceitos e ferramentas da Ciência de Dados, por meio de projetos com dados públicos.
+## 🚀 Minha Jornada em Dados
 
-Você também encontrará minhas experiências profissionais, habilidades, ferramentas e conceitos relacionados à Ciência de Dados.
+Olá! Sou **Tiago Silva**, Cientista de Dados e Engenheiro de Dados especializado em **transformar dados brutos em soluções de negócio impactantes**. Com mais de **360 horas** de formação especializada e **projetos práticos** que já geraram insights valiosos, minha missão é resolver problemas reais através da análise inteligente de dados.
 
-Sinta-se à vontade para entrar em contato através dos links no final da página.
+### 💡 O Que Me Diferencia:
+- **🎯 Foco em Resultados**: Cada projeto entrega valor mensurável ao negócio
+- **🔧 Stack Completo**: Domínio desde extração até visualização de dados
+- **📈 Experiência Prática**: Projetos reais em análise de crédito, prevenção de fraudes e analytics de RH
+- **☁️ Cloud Ready**: Experiência com AWS, pipelines escaláveis e arquiteturas modernas
 
----
+### 🛠️ **Tech Stack Principal**
+```
+Linguagens: Python, SQL
+Machine Learning: Scikit-learn, Pandas, NumPy
+Visualização: Matplotlib, Seaborn, Power BI
+Cloud & Big Data: AWS (EMR, S3), Apache Airflow, Apache Flink
+Databases: MySQL, MongoDB, PostgreSQL
+```
 
-# Índice
+## 🏆 Projetos de Impacto - Cases Reais
 
-- [Boas Vindas](#boas-vindas)
-- [Sobre Mim](#sobre-mim)
-- [Habilidades](#habilidades)
-- [Experiências](#experiências)
-- [Projetos em Ciência de Dados](#projetos-em-ciência-de-dados)
-- [Contato](#contato)
+### 📈 **Análise Estratégica Spotify** | *Insights para Indústria Musical*
+[🔗 Repositório GitHub](https://github.com/tmarsbr/data-analyst-project)
 
----
+**Desafio**: Identificar padrões nas músicas mais tocadas do Spotify para orientar decisões de produção musical
+**Solução**: Análise exploratória avançada com Python, identificando correlações entre características musicais e sucesso
+**Resultados**: Dashboard interativo revelando fatores-chave para viralização de músicas
 
-## Sobre Mim
-
-Meu nome é Tiago Silva, atuo há anos na área de usinagem, operando tornos mecânicos para fabricar peças metálicas com precisão. Atualmente, trabalho de forma autônoma, especializado na usinagem de cadinhos de grafite para fundição, o que me trouxe habilidades em resolução de problemas e atenção aos detalhes.
-
-Nos últimos anos, venho migrando para a área de Ciência de Dados, aplicando minha experiência prática e visão analítica para desenvolver soluções baseadas em dados.
-
----
-
-## Habilidades
-
-- **Linguagens de Programação e Banco de Dados:**
-  - Python com foco em análise de dados
-  - Web scraping com Python
-  - SQL para extração de dados
-  - Bancos de Dados: SQLite, Postgres, MySQL, Oracle, MongoDB
-- **Estatística e Machine Learning:**
-  - Estatística descritiva (localização, dispersão, assimetria, kurtosis, densidade)
-  - Algoritmos de regressão, classificação, clusterização e "learn to rank"
-  - Técnicas de balanceamento de dados, seleção de atributos e redução de dimensionalidade
-  - Métricas de performance: RMSE, MAE, MAPE, Confusion Matrix, Precisão, Recall, Curva ROC, Curva Lift, AUC, Silhouette Score, DB-Index
-  - Pacotes: Sklearn, Scipy
-- **Visualização de Dados:**
-  - Matplotlib, Seaborn, Plotly
-  - Power BI
-- **Engenharia de Software:**
-  - Git, Github, Gitlab, Virtual Environment, Docker
-  - Streamlit, APIs em Python
-- **Cloud:**
-  - AWS Amazon
+**Tecnologias**: `Python` `Pandas` `Matplotlib` `Seaborn` `Statistical Analysis`
 
 ---
 
-## Experiências
+### 🛣️ **Analytics de Segurança Rodoviária** | *Impacto Social*
+[🔗 Repositório GitHub](https://github.com/tmarsbr/analise-PRF-)
 
-- 9+ projetos completos de Ciência de Dados, desenvolvendo soluções para problemas de negócio reais, desde a concepção do desafio até a publicação do algoritmo em produção, utilizando dados públicos e ferramentas de Cloud Computing.
-- Mais de 5 anos de experiência como torneiro mecânico CLT, atuando em empresas como Metal Flex e Cilintech, com foco em usinagem de peças metálicas de precisão.
-- Mais de 2 anos de atuação autônoma, especializado na usinagem de cadinhos de grafite para fundição, atendendo demandas personalizadas de clientes.
+**Desafio**: Investigar a eficácia de radares na prevenção de acidentes nas rodovias brasileiras
+**Solução**: Análise geoespacial combinada com estatística descritiva para mapear zonas de risco
+**Resultados**: Insights para otimização do posicionamento de equipamentos de segurança
 
----
-
-## Projetos em Ciência de Dados
-
-Abaixo estão alguns dos principais projetos que desenvolvi, abordando desafios reais de negócio e utilizando diferentes técnicas e ferramentas de Ciência de Dados. Cada projeto foi pensado para resolver problemas práticos, desde a análise exploratória até a implementação de soluções em produção.
-
-### Análise Exploratória de Dados - Spotify Most Streamed Songs
-- **Descrição:** Análise detalhada das músicas mais tocadas no Spotify, identificando fatores de sucesso.
-- **Ferramentas:** Python, Pandas, Matplotlib, Seaborn
-- [Repositório GitHub](https://github.com/tmarsbr/data-analyst-project)
-
-### Análise dos Acidentes nas Rodovias Brasileiras
-- **Descrição:** Investigação dos acidentes nas estradas brasileiras e relação com localização de radares.
-- **Ferramentas:** Python, Pandas, Geopandas, Visualização Geoespacial
-- [Repositório GitHub](https://github.com/tmarsbr/analise-PRF-)
-
-### Projeto de Integração de Dados - Clínicas Sanare e Reviver
-- **Descrição:** Integração e uniformização de dados de duas clínicas durante processo de fusão.
-- **Ferramentas:** Python, Orientação a Objetos, ETL
-- [Repositório GitHub](https://github.com/tmarsbr/projeto_pipeline)
-
-### Projeto de Extração e Análise de Repositórios do GitHub
-- **Descrição:** Extração de dados de repositórios de grandes empresas e análise das linguagens mais utilizadas.
-- **Ferramentas:** Python, API GitHub, Pandas
-- [Repositório GitHub](https://github.com/tmarsbr/Projeto_api)
-
-### Pipeline Python - MongoDB - MySQL
-- **Descrição:** Pipeline robusto para integração e análise de dados em e-commerce, conectando Python, MongoDB e MySQL. Projeto resultou em maior eficiência no fluxo de dados e redução de tempo de análise para a equipe de BI.
-- **Ferramentas:** Python, MongoDB, MySQL
-- [Repositório GitHub](https://github.com/tmarsbr/pipeline-python-mongo-mysql)
+**Tecnologias**: `Python` `Análise Geoespacial` `Statistical Modeling` `Data Visualization`
 
 ---
 
-## Contato
+### 🏥 **Pipeline de Integração Hospitalar** | *Engenharia de Dados*
+[🔗 Repositório GitHub](https://github.com/tmarsbr/projeto_pipeline)
 
-Fique à vontade para entrar em contato para conversar sobre projetos, oportunidades ou parcerias!
+**Desafio**: Unificar dados de duas clínicas durante processo de fusão corporativa
+**Solução**: Pipeline orientado a objetos garantindo consistência e qualidade dos dados
+**Resultados**: Sistema robusto para migração de dados sem perda de informações críticas
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiagodados)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiagomars233@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511975429994)
+**Tecnologias**: `Python OOP` `Data Pipeline` `ETL` `Data Quality Assurance`
+
+---
+
+### 🔍 **Intelligence GitHub Corporativo** | *Business Intelligence*
+[🔗 Repositório GitHub](https://github.com/tmarsbr/Projeto_api)
+
+**Desafio**: Mapear tendências tecnológicas através de repositórios corporativos
+**Solução**: Extração automatizada via API GitHub + análise de linguagens e frameworks
+**Resultados**: Dashboard estratégico para tomada de decisão em stack tecnológico
+
+**Tecnologias**: `API Integration` `Python` `Data Mining` `Business Intelligence`
+
+## 🔬 Projetos em Desenvolvimento - Próximas Entregas
+
+### 💳 **Sistema de Análise de Crédito** | *FinTech & Risk Management*
+**Status**: Em desenvolvimento ativo  
+**Objetivo**: Modelo preditivo para avaliação de risco de crédito com ML  
+**Progresso Documentado**:
+- [📝 Kickoff do Projeto](https://www.linkedin.com/pulse/an%C3%A1lise-de-cr%C3%A9dito-o-in%C3%ADcio-uma-nova-jornada-em-ci%C3%AAncia-tiago-silva-070zf/?trackingId=I%2FKtlovKdoNnHe6quw1mqA%3D%3D)
+- [📊 Updates Semanais](https://www.linkedin.com/in/tiagocientistadados/recent-activity/all/)
+
+### 👥 **People Analytics Platform** | *HR Intelligence*
+**Foco**: Otimização de processos de RH através de análise preditiva  
+**Aplicações**: Turnover prediction, performance analytics, talent mapping
+
+### 🛡️ **Score Anti-Fraude** | *Security & Machine Learning*
+**Objetivo**: Sistema inteligente de detecção e prevenção de fraudes  
+**Tecnologias**: Machine Learning, Anomaly Detection, Real-time Processing
+
+## 🎓 Formação Técnica Especializada
+
+### 📊 **Trilha Completa em Data Science & Engineering**
+
+| Especialização | Instituição | Carga Horária | Status |
+|---|---|---|---|
+| **Engenharia de Dados Avançada** | Pod Academy | 360+ horas | ✅ 2025 |
+| **Ciência de Dados Completa** | Pod Academy | 360+ horas | ✅ 2024 |
+| **Cloud AWS Bootcamp** | Pod Academy / Data Viking | 40 horas | ✅ 2024 |
+| **Análise de Dados Professional** | Pod Academy | 40 horas | ✅ 2023 |
+| **Git/GitHub para Dados** | Jornada dos Dados | 40 horas | ✅ 2025 |
+
+**Total**: **+840 horas** de formação especializada em dados
+
+## 📞 Vamos Conversar?
 
 **Tiago Da Silva E Santo**  
-São Paulo, SP
+🏢 **Localização**: São Paulo, SP  
+📱 **WhatsApp**: (11) 97542-9994  
+💼 **LinkedIn**: [tiagocientistadados](https://www.linkedin.com/in/tiagocientistadados)  
+📧 **E-mail**: tiagomars233@gmail.com  
+
+---
+
+### 🎯 **Pronto para Contribuir Com:**
+- **Análise de Dados Estratégica** para tomada de decisão executiva
+- **Pipelines de Dados Escaláveis** para empresas em crescimento  
+- **Modelos Preditivos** para otimização de processos e receita
+- **Dashboards Executivos** para KPIs e métricas de negócio
+- **Projetos de Cloud & Big Data** com foco em performance
+
+> *"Transformo dados complexos em estratégias simples e acionáveis. Vamos discutir como posso agregar valor ao seu time?"*
+
+## 🗂️ Portfólio Completo - Projetos GitHub
+
+### 🏗️ **Engenharia de Dados & Cloud**
+- [**airflowalura**](https://github.com/tmarsbr/airflowalura): Pipeline Apache Airflow para dados climáticos com API Visual Crossing Weather
+- [**apache-airflow-emr-pipeline**](https://github.com/tmarsbr/apache-airflow-emr-pipeline): Pipeline completo Airflow + AWS EMR para processamento de dados de voos em escala
+- [**aws-emr-flink-portfolio**](https://github.com/tmarsbr/aws-emr-flink-portfolio): Arquitetura AWS EMR + Apache Flink para analytics em tempo real
+- [**pipeline-python-mongo-mysql**](https://github.com/tmarsbr/pipeline-python-mongo-mysql): Integração MongoDB ↔ Python ↔ MySQL
+
+### 📊 **Análise de Dados & Business Intelligence**
+- [**data-analyst-project**](https://github.com/tmarsbr/data-analyst-project): Análise completa músicas Spotify mais tocadas
+- [**analise-PRF-**](https://github.com/tmarsbr/analise-PRF-): Dashboard analítico acidentes rodovias federais brasileiras
+- [**EDA**](https://github.com/tmarsbr/EDA): Laboratório de experimentos em análise exploratória
+- [**ANALISE_DE_PORTAL_E-COMMERCE**](https://github.com/tmarsbr/ANALISE_DE_PORTAL_E-COMMERCE): Business Intelligence para e-commerce
+
+### 💳 **FinTech & Análise de Crédito**
+- [**EdaEmCredito**](https://github.com/tmarsbr/EdaEmCredito): Análise exploratória especializada em domínio financeiro
+
+### 🚀 **Desenvolvimento & APIs**
+- [**Projeto_api**](https://github.com/tmarsbr/Projeto_api): Sistema de análise repositórios GitHub corporativo
+- [**projeto_pipeline**](https://github.com/tmarsbr/projeto_pipeline): Pipeline integração dados clínicas (Sanare + Reviver)
+- [**portifolio-data-analytics**](https://github.com/tmarsbr/portifolio-data-analytics): Portfólio profissional desenvolvido em React
+
+---
+
+📈 **20+ repositórios** | 🔧 **Stack completa** | ☁️ **Cloud-native** | 📊 **Business-focused**
 
