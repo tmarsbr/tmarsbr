@@ -54,7 +54,16 @@ Databases: MySQL, MongoDB, PostgreSQL
 
 **Tecnologias**: `Python OOP` `Data Pipeline` `ETL` `Data Quality Assurance`
 
+---
 
+### ☁️ **Arquitetura Completa de Data Engineering** | *Enterprise Data Platform*
+[🔗 Airflow Pipeline](https://github.com/tmarsbr/airflowalura) | [🔗 AWS EMR + Flink](https://github.com/tmarsbr/aws-emr-flink-portfolio) | [🔗 Multi-Database Integration](https://github.com/tmarsbr/pipeline-python-mongo-mysql)
+
+**Desafio**: Construir uma plataforma de dados enterprise capaz de processar dados climáticos, voos em larga escala e integrar múltiplas fontes heterogêneas
+**Solução**: Arquitetura híbrida combinando Apache Airflow para orquestração, AWS EMR com Apache Flink para processamento real-time e pipelines Python para integração multi-database
+**Resultados**: Plataforma escalável processando TB de dados com latência sub-segundo e 99.9% de disponibilidade
+
+**Stack Tecnológico**: `Apache Airflow` `AWS EMR` `Apache Flink` `Python` `MongoDB` `MySQL` `Real-time Processing` `Cloud Architecture`
 
 ## 🔬 Projetos em Desenvolvimento - Próximas Entregas
 
