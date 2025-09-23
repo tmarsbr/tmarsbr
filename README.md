@@ -54,16 +54,7 @@ Databases: MySQL, MongoDB, PostgreSQL
 
 **Tecnologias**: `Python OOP` `Data Pipeline` `ETL` `Data Quality Assurance`
 
----
 
-### 🔍 **Intelligence GitHub Corporativo** | *Business Intelligence*
-[🔗 Repositório GitHub](https://github.com/tmarsbr/Projeto_api)
-
-**Desafio**: Mapear tendências tecnológicas através de repositórios corporativos
-**Solução**: Extração automatizada via API GitHub + análise de linguagens e frameworks
-**Resultados**: Dashboard estratégico para tomada de decisão em stack tecnológico
-
-**Tecnologias**: `API Integration` `Python` `Data Mining` `Business Intelligence`
 
 ## 🔬 Projetos em Desenvolvimento - Próximas Entregas
 
@@ -101,7 +92,7 @@ Databases: MySQL, MongoDB, PostgreSQL
 **Tiago Da Silva E Santo**  
 🏢 **Localização**: São Paulo, SP  
 📱 **WhatsApp**: (11) 97542-9994  
-💼 **LinkedIn**: [tiagocientistadados](https://www.linkedin.com/in/tiagocientistadados)  
+💼 **LinkedIn**: [tiagocientistadados](https://www.linkedin.com/in/tiagodados)  
 📧 **E-mail**: tiagomars233@gmail.com  
 
 ---
