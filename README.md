@@ -101,7 +101,7 @@ Databases: MySQL, MongoDB, PostgreSQL
 **Tiago Da Silva E Santo**  
 🏢 **Localização**: São Paulo, SP  
 📱 **WhatsApp**: (11) 97542-9994  
-💼 **LinkedIn**: [tiagocientistadados](https://www.linkedin.com/in/tiagodados)  
+💼 **LinkedIn**: [tiagodados](https://www.linkedin.com/in/tiagodados)  
 📧 **E-mail**: tiagomars233@gmail.com  
 
 ---
