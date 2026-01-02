@@ -27,7 +27,39 @@ Hoje, aplico esse mesmo rigor técnico para construir **pipelines de dados resil
 
 ---
 
-## 💼 Projetos em Destaque
+## ⭐ Projetos em Destaque
+
+### 🔍 ETL Robusto: Garantia de Qualidade de Dados com Python e Pydantic
+[![ETL Robusto](capa_etl_qualidade.png)](https://github.com/tmarsbr/portifolio)
+
+Pipeline ETL completo com validações de qualidade usando **Pydantic** e testes automatizados com **Pytest**, garantindo integridade dos dados do início ao fim.
+
+**Destaques:** Validação de schema, testes automatizados, logging de erros  
+**Tecnologias:** `Python` `Pandas` `Pydantic` `Pytest`
+
+---
+
+### 🏛️ Analytics-Ready Data Warehouse: Modelagem Dimensional com dbt e AWS
+[![Data Warehouse](capa_dw_dbt.png)](https://github.com/tmarsbr/portifolio)
+
+Construção de um Data Warehouse dimensional na AWS, transformando dados brutos do S3 em modelo **Star Schema** com dbt para análise.
+
+**Destaques:** Modelo dimensional, testes dbt, documentação automática  
+**Tecnologias:** `dbt` `SQL` `AWS S3` `Amazon Redshift`
+
+---
+
+### ⚡ Pipeline de Dados Automatizado: Orquestração de ETL na AWS com Airflow
+[![Pipeline Airflow](capa_airflow_aws.png)](https://github.com/tmarsbr/portifolio)
+
+Pipeline automatizado com **Apache Airflow** que orquestra ETL completo na AWS, com agendamento, monitoramento e resiliência.
+
+**Destaques:** DAG orquestrada, agendamento automático, containerização Docker  
+**Tecnologias:** `Apache Airflow` `Python` `AWS S3` `Docker`
+
+---
+
+## 💼 Outros Projetos
 
 ### 🏥 [Pipeline de Integração - Clínicas Sanare e Reviver](https://github.com/tmarsbr/projeto_pipeline)
 > **Desafio:** Unificar sistemas de duas clínicas médicas durante uma fusão.
@@ -68,5 +100,3 @@ Estou sempre aberto para discussões sobre engenharia de dados, parcerias em pro
 <p align="center">
   <em>"Tolerância apertada e processo confiável geram qualidade — em aço e em dados."</em>
 </p>
-
-.
