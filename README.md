@@ -69,3 +69,4 @@ Estou sempre aberto para discussões sobre engenharia de dados, parcerias em pro
   <em>"Tolerância apertada e processo confiável geram qualidade — em aço e em dados."</em>
 </p>
 
+.
