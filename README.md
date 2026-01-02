@@ -41,11 +41,52 @@ Hoje, aplico esse mesmo rigor técnico para construir **pipelines de dados resil
 - **Resultado:** Insights estratégicos sobre stacks e frequência de commits de 15 gigantes da tecnologia.
 - `Python` `GitHub API` `Pandas` `Requests`
 
+<<<<<<< HEAD
 ### 🔄 [Pipeline Python - MongoDB - MySQL](https://github.com/tmarsbr/pipeline-python-mongo-mysql)
 > **Desafio:** Otimizar o tempo de análise da equipe de BI de um e-commerce.
 - **Solução:** Integração automatizada entre bancos NoSQL e Relacionais.
 - **Resultado:** Redução de **70% no tempo de processamento** e análise de dados.
 - `Python` `MongoDB` `MySQL` `ETL`
+=======
+## 🔬 Projetos em Desenvolvimento - Próximas Entregas
+
+### 💳 **Sistema de Análise de Crédito** | *FinTech & Risk Management*
+**Status**: Em desenvolvimento ativo  
+**Objetivo**: Modelo preditivo para avaliação de risco de crédito com ML  
+**Progresso Documentado**:
+- [📝 Kickoff do Projeto](https://www.linkedin.com/pulse/an%C3%A1lise-de-cr%C3%A9dito-o-in%C3%ADcio-uma-nova-jornada-em-ci%C3%AAncia-tiago-silva-070zf/?trackingId=I%2FKtlovKdoNnHe6quw1mqA%3D%3D)
+- [📊 Updates Semanais](https://www.linkedin.com/in/tiagocientistadados/recent-activity/all/)
+
+### 👥 **People Analytics Platform** | *HR Intelligence*
+**Foco**: Otimização de processos de RH através de análise preditiva  
+**Aplicações**: Turnover prediction, performance analytics, talent mapping
+
+### 🛡️ **Score Anti-Fraude** | *Security & Machine Learning*
+**Objetivo**: Sistema inteligente de detecção e prevenção de fraudes  
+**Tecnologias**: Machine Learning, Anomaly Detection, Real-time Processing
+
+## 🎓 Formação Técnica Especializada
+
+### 📊 **Trilha Completa em Data Science & Engineering**
+
+| Especialização | Instituição | Carga Horária | Status |
+|---|---|---|---|
+| **Engenharia de Dados Avançada** | Pod Academy | 360+ horas | ✅ 2025 |
+| **Ciência de Dados Completa** | Pod Academy | 360+ horas | ✅ 2024 |
+| **Cloud AWS Bootcamp** | Pod Academy / Data Viking | 40 horas | ✅ 2024 |
+| **Análise de Dados Professional** | Pod Academy | 40 horas | ✅ 2023 |
+| **Git/GitHub para Dados** | Jornada dos Dados | 40 horas | ✅ 2025 |
+
+**Total**: **+840 horas** de formação especializada em dados
+
+## 📞 Vamos Conversar?
+
+**Tiago Da Silva E Santo**  
+🏢 **Localização**: São Paulo, SP  
+📱 **WhatsApp**: (11) 97542-9994  
+💼 **LinkedIn**: [tiagodados](https://www.linkedin.com/in/tiagodados)  
+📧 **E-mail**: tiagomars233@gmail.com  
+>>>>>>> 594fc782aa4e761447c8320071aac06e1c417578
 
 ---
 
