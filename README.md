@@ -78,8 +78,8 @@ Hoje, troquei o óleo das máquinas pelo código em Python, mas a mentalidade pe
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tmarsbr&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmarsbr&layout=compact&langs_count=7&theme=transparent" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tmarsbr&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmarsbr&layout=compact&langs_count=7&theme=radical" />
 </p>
 
 ---
