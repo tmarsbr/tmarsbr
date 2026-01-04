@@ -43,10 +43,16 @@ Hoje, troquei o óleo das máquinas pelo código em Python, mas a mentalidade pe
 
 ## ⭐ Projetos em Destaque
 
-### 🕷️ [Pipeline de Web Scraping: Dados Públicos da Receita Federal](https://github.com/tmarsbr)
+### 🏗️ [Arquitetura Data Lake Escalável: Otimização de Cobranças](https://github.com/tmarsbr/meu-lago-mago)
+**Desafio:** Centralizar dados fragmentados de múltiplos sistemas (RDS, APIs, arquivos) para otimizar processos de cobrança.
+- **Solução:** Implementação de um Data Lake na AWS com arquitetura em 4 camadas (**RAW, Bronze, Silver, Gold**).
+- **Destaque:** Processamento massivo com **Apache Spark no EMR**, orquestração via Airflow e governança com IAM.
+- `AWS S3` `EMR` `Spark` `Airflow` `Athena`
+
+### 🕷️ [Pipeline de Web Scraping: Dados Públicos da Receita Federal](https://github.com/tmarsbr/apache-airflow-emr-pipeline)
 **Desafio:** Coletar e processar dados massivos do CNPJ (milhões de registros) de forma escalável.
 - **Solução:** Desenvolvi crawlers em Python para automação da coleta e utilizei **Apache Spark no Amazon EMR** para o processamento distribuído.
-- **Destaque:** Arquitetura em camadas (Raw, Trusted, Refined) no S3 e consultas via Athena.
+- **Destaque:** Arquitetura em camadas no S3 e consultas via Athena para análise de ativos.
 - `Python` `Spark` `AWS EMR` `S3` `Athena`
 
 ### 🔍 [ETL Robusto: Data Quality com Pydantic](https://github.com/tmarsbr/etl-data-quality)
