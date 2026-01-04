@@ -1,87 +1,76 @@
 # Olá, eu sou o Tiago Silva 👋
-### Engenheiro de Dados Jr. com Mentalidade de Produção Sênior
+### Engenheiro de Dados Jr. | Especialista em Precisão e Pipelines Resilientes
 
 <p align="left">
-  <a href="https://tmarsbr.github.io/portifolio/"><strong>Acesse meu Portfólio Online 🚀</strong></a>
+  <a href="https://tmarsbr.github.io/portifolio/"><strong>Acesse meu Portfólio Online 🚀</strong></a> | 
+  <a href="https://www.linkedin.com/in/tiagodados"><strong>LinkedIn</strong></a> |
+  <a href="mailto:tiagomars233@gmail.com"><strong>Email</strong></a>
 </p>
 
 ---
 
-## 🛠️ Da Oficina para os Dados
-Minha jornada começou com o barulho de tornos e o cheiro de óleo. Na **usinagem de precisão**, aprendi que um erro de um décimo de milímetro pode comprometer toda uma linha de produção. Foi lá que desenvolvi um olhar clínico, disciplina operacional e o gosto por resolver problemas complexos com método.
+## 🔧 Da Usinagem de Precisão para a Engenharia de Dados
 
-Hoje, aplico esse mesmo rigor técnico para construir **pipelines de dados resilientes e confiáveis**. Transformo dados brutos em decisões inteligentes, garantindo que a "tolerância" dos dados seja tão apertada quanto a das peças que eu costumava fabricar.
+Minha trajetória profissional não começou em frente a um terminal, mas sim operando **tornos mecânicos** e lidando com o barulho de uma linha de produção. Na usinagem de precisão, aprendi que a diferença entre uma peça perfeita e um descarte é de **centésimos de milímetro**. 
+
+> *"Tolerância apertada e processo confiável geram qualidade — seja em aço ou em dados."*
+
+Hoje, troquei o óleo das máquinas pelo código em Python, mas a mentalidade permanece a mesma: **rigor técnico e disciplina operacional**. Para mim, um pipeline de dados é uma linha de produção digital. Se um dado entra sem validação, o produto final (a decisão de negócio) está comprometido.
+
+**O que trago da oficina para os dados:**
+- **Olhar Clínico:** Identificação de anomalias antes que elas se tornem problemas.
+- **Resiliência:** Construção de sistemas preparados para falhas, com retentativas e monitoramento.
+- **Foco em Qualidade:** Validação rigorosa de schemas e contratos de dados (Pydantic/dbt).
 
 ---
 
-## 🚀 Tech Stack Principal
+## 🚀 Tech Stack
 
+### **Data Engineering & Infrastructure**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### **Cloud (AWS)**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+`S3` `EMR` `Redshift` `Glue` `Athena` `Lambda`
 
 ---
 
 ## ⭐ Projetos em Destaque
 
-### 🔍 ETL Robusto: Garantia de Qualidade de Dados com Python e Pydantic
-[![ETL Robusto](capa_etl_qualidade.png)](https://github.com/tmarsbr/portifolio)
+### 🕷️ [Pipeline de Web Scraping: Dados Públicos da Receita Federal](https://github.com/tmarsbr)
+**Desafio:** Coletar e processar dados massivos do CNPJ (milhões de registros) de forma escalável.
+- **Solução:** Desenvolvi crawlers em Python para automação da coleta e utilizei **Apache Spark no Amazon EMR** para o processamento distribuído.
+- **Destaque:** Arquitetura em camadas (Raw, Trusted, Refined) no S3 e consultas via Athena.
+- `Python` `Spark` `AWS EMR` `S3` `Athena`
 
-Pipeline ETL completo com validações de qualidade usando **Pydantic** e testes automatizados com **Pytest**, garantindo integridade dos dados do início ao fim.
+### 🔍 [ETL Robusto: Data Quality com Pydantic](https://github.com/tmarsbr/etl-data-quality)
+**Desafio:** Garantir que dados de e-commerce cheguem ao destino com 100% de integridade.
+- **Solução:** Pipeline com validação de schema via **Pydantic** e testes automatizados com **Pytest**.
+- **Destaque:** Redução de 80% nos erros de carga e implementação de logging estruturado.
+- `Python` `Pandas` `Pydantic` `Pytest` `PostgreSQL`
 
-**Destaques:** Validação de schema, testes automatizados, logging de erros  
-**Tecnologias:** `Python` `Pandas` `Pydantic` `Pytest`
+### 🏛️ [Analytics-Ready Warehouse: dbt & Modelagem Dimensional](https://github.com/tmarsbr/dbt-analytics-warehouse)
+**Desafio:** Transformar dados brutos de marketing em um modelo pronto para BI.
+- **Solução:** Construção de um Data Warehouse no **Amazon Redshift** utilizando **dbt** para orquestrar transformações SQL em Star Schema.
+- **Destaque:** Documentação automática e testes de integridade integrados ao workflow.
+- `dbt` `SQL` `AWS Redshift` `Star Schema`
 
----
-
-### 🏛️ Analytics-Ready Data Warehouse: Modelagem Dimensional com dbt e AWS
-[![Data Warehouse](capa_dw_dbt.png)](https://github.com/tmarsbr/portifolio)
-
-Construção de um Data Warehouse dimensional na AWS, transformando dados brutos do S3 em modelo **Star Schema** com dbt para análise.
-
-**Destaques:** Modelo dimensional, testes dbt, documentação automática  
-**Tecnologias:** `dbt` `SQL` `AWS S3` `Amazon Redshift`
-
----
-
-### ⚡ Pipeline de Dados Automatizado: Orquestração de ETL na AWS com Airflow
-[![Pipeline Airflow](capa_airflow_aws.png)](https://github.com/tmarsbr/portifolio)
-
-Pipeline automatizado com **Apache Airflow** que orquestra ETL completo na AWS, com agendamento, monitoramento e resiliência.
-
-**Destaques:** DAG orquestrada, agendamento automático, containerização Docker  
-**Tecnologias:** `Apache Airflow` `Python` `AWS S3` `Docker`
-
----
-
-## 💼 Outros Projetos
-
-### 🏥 [Pipeline de Integração - Clínicas Sanare e Reviver](https://github.com/tmarsbr/projeto_pipeline)
-> **Desafio:** Unificar sistemas de duas clínicas médicas durante uma fusão.
-- **Solução:** Desenvolvi um pipeline ETL robusto em Python (OOP) que migrou **+10k registros**.
-- **Resultado:** **99.9% de precisão** na migração e zero downtime para as clínicas.
-- `Python` `OOP` `ETL` `Data Quality`
-
-### 🐙 [Extração e Análise - Repositórios GitHub](https://github.com/tmarsbr/Projeto_api)
-> **Desafio:** Analisar tendências de desenvolvimento em grandes empresas tech.
-- **Solução:** Sistema automatizado via API do GitHub para extração de dados de **+1000 repositórios**.
-- **Resultado:** Insights estratégicos sobre stacks e frequência de commits de 15 gigantes da tecnologia.
-- `Python` `GitHub API` `Pandas` `Requests`
-
-### 🔄 [Pipeline Python - MongoDB - MySQL](https://github.com/tmarsbr/pipeline-python-mongo-mysql)
-> **Desafio:** Otimizar o tempo de análise da equipe de BI de um e-commerce.
-- **Solução:** Integração automatizada entre bancos NoSQL e Relacionais.
-- **Resultado:** Redução de **70% no tempo de processamento** e análise de dados.
-- `Python` `MongoDB` `MySQL` `ETL`
+### ⚡ [Orquestração de Pipelines: Airflow na AWS](https://github.com/tmarsbr/airflow-etl-pipeline)
+**Desafio:** Automatizar a coleta diária de dados meteorológicos com resiliência.
+- **Solução:** DAGs no **Apache Airflow** gerenciando extração de APIs, armazenamento no S3 e alertas de falha.
+- **Destaque:** Ambiente containerizado com Docker e monitoramento de retentativas.
+- `Airflow` `Python` `Docker` `AWS S3`
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tmarsbr&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmarsbr&layout=compact&langs_count=7&theme=transparent" />
@@ -90,7 +79,8 @@ Pipeline automatizado com **Apache Airflow** que orquestra ETL completo na AWS, 
 ---
 
 ## 📫 Vamos Conversar?
-Estou sempre aberto para discussões sobre engenharia de dados, parcerias em projetos ou apenas para trocar experiências!
+
+Estou em busca de oportunidades onde a precisão técnica e a paixão por dados se encontram. Se você precisa de pipelines que não apenas funcionam, mas que são construídos para durar, vamos conversar!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiagodados)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511975429994)
@@ -98,5 +88,5 @@ Estou sempre aberto para discussões sobre engenharia de dados, parcerias em pro
 
 ---
 <p align="center">
-  <em>"Tolerância apertada e processo confiável geram qualidade — em aço e em dados."</em>
+  <em>"A precisão da mecânica, agora a serviço dos dados."</em>
 </p>
