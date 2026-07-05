@@ -45,9 +45,14 @@ Sigo a filosofia de usar a ferramenta certa para o problema certo, priorizando a
 ---
 
 ## 📊 Performance & Atividade
+
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tmarsbr&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmarsbr&layout=compact&langs_count=7&theme=transparent" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tmarsbr&theme=dark" alt="GitHub Trophies" /></a>
+</p>
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tmarsbr&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmarsbr&layout=compact&langs_count=7&theme=dark" />
 </p>
 
 ---
