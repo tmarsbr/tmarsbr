@@ -28,25 +28,19 @@ Sigo a filosofia de usar a ferramenta certa para o problema certo, priorizando a
 
 ---
 
-## 💼 Engenharia Aplicada (Cases)
+## 💼 Engenharia Aplicada (Cases de Alto Impacto)
 
-### 🏥 Fusão de Dados: Clínicas Sanare & Reviver
-**O cenário:** Duas operações médicas fundindo-se, com dados fragmentados e incompatíveis. O risco era a perda de histórico clínico de pacientes.
-- **A abordagem:** Construí um pipeline ETL utilizando Programação Orientada a Objetos (OOP) para garantir modularidade e fácil manutenção. Implementei camadas de validação de *Data Quality* para barrar inconsistências antes do load.
-- **O impacto:** Migração de **+10k registros com 99.9% de precisão**, garantindo a continuidade do atendimento médico sem downtime.
-- `Python` `OOP` `ETL` `Data Quality` $\rightarrow$ [Ver Projeto](https://github.com/tmarsbr/projeto_pipeline)
+### 🏛️ Analytics-Ready Data Warehouse: Modelagem Dimensional com dbt & AWS
+**O cenário:** A equipe de marketing não conseguia mensurar o ROI real das campanhas. Dados fragmentados em Google Ads, Facebook Ads e CRM geravam cruzamentos manuais lentos e propensos a erros.
+- **A abordagem:** Implementei um Data Warehouse no **Amazon Redshift** utilizando **dbt (Data Build Tool)**. Estruturei o fluxo em camadas: *Staging* (limpeza), *Intermediate* (regras de negócio) e *Marts* (Star Schema), com testes de integridade automatizados e documentação de linhagem de dados.
+- **O impacto:** Análises **5x mais rápidas** e a centralização de métricas que permitiram a otimização do orçamento, melhorando o **ROI em mais de 15%** no primeiro trimestre.
+- `dbt` `SQL` `Amazon Redshift` `AWS S3` `Star Schema` $\rightarrow$ [Ver Projeto](https://github.com/tmarsbr/projeto-dw-dbt)
 
-### 🐙 Inteligência de Mercado via GitHub API
-**O cenário:** Como entender a stack tecnológica de 15 gigantes da tech sem análise manual de milhares de repositórios?
-- **A abordagem:** Desenvolvi um sistema automatizado de extração de dados via API do GitHub, processando informações de **+1000 repositórios** e normalizando esses dados para análise de tendências.
-- **O impacto:** Transformei dados brutos de API em insights estratégicos sobre frequência de commits e tecnologias dominantes.
-- `Python` `GitHub API` `Pandas` `Requests` $\rightarrow$ [Ver Projeto](https://github.com/tmarsbr/Projeto_api)
-
-### 🔄 Otimização de Fluxo NoSQL $\rightarrow$ Relacional
-**O cenário:** Uma equipe de BI de e-commerce perdia horas em processamentos manuais para extrair insights de um banco MongoDB.
-- **A abordagem:** Implementei a automação do fluxo de dados entre MongoDB e MySQL, eliminando gargalos de extração e transformando a estrutura de dados para consumo imediato via SQL.
-- **O impacto:** Redução drástica de **70% no tempo de processamento**, permitindo que a equipe de BI focasse em análise e não em limpeza de dados.
-- `Python` `MongoDB` `MySQL` `ETL` $\rightarrow$ [Ver Projeto](https://github.com/tmarsbr/pipeline-python-mongo-mysql)
+### 🌊 Arquitetura Data Lake Escalável: Otimização de Cobranças Financeiras
+**O cenário:** Dados de clientes inadimplentes estavam dispersos em RDS, APIs e arquivos, impedindo a criação de uma visão 360º e a aplicação de modelos preditivos de cobrança.
+- **A abordagem:** Projetei um Data Lake na AWS seguindo a arquitetura de 4 camadas (**RAW $\rightarrow$ Bronze $\rightarrow$ Silver $\rightarrow$ Gold**). Orquestrei a ingestão via **Apache Airflow** e o processamento massivo com **Apache Spark no EMR**, utilizando formato **Parquet** para otimização de custos e performance.
+- **O impacto:** A democratização dos dados na camada Gold permitiu a criação de modelos de propensão à inadimplência, aumentando a eficiência da cobrança em **35%** e elevando o **LTV (Lifetime Value) em 10%**.
+- `AWS S3` `Amazon EMR` `Apache Spark` `Airflow` `Athena` `Parquet` $\rightarrow$ [Ver Projeto](https://github.com/tmarsbr/projeto-datalake)
 
 ---
 
