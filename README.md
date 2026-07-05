@@ -1,55 +1,56 @@
 # Olá, eu sou o Tiago Silva 👋
-### Engenheiro de Dados Jr. com Mentalidade de Produção Sênior
+### Transformando o rigor da precisão industrial em pipelines de dados resilientes.
 
 <p align="left">
-  <a href="https://tmarsbr.github.io/portifolio/"><strong>Acesse meu Portfólio Online 🚀</strong></a>
+  <a href="https://tmarsbr.github.io/portifolio/"><strong>🚀 Explore meu Ecossistema de Projetos</strong></a>
 </p>
 
 ---
 
-## 🛠️ Da Oficina para os Dados
-Minha jornada começou com o barulho de tornos e o cheiro de óleo. Na **usinagem de precisão**, aprendi que um erro de um décimo de milímetro pode comprometer toda uma linha de produção. Foi lá que desenvolvi um olhar clínico, disciplina operacional e o gosto por resolver problemas complexos com método.
+## 🛠️ Do Micrômetro ao Spark: Minha Jornada
 
-Hoje, aplico esse mesmo rigor técnico para construir **pipelines de dados resilientes e confiáveis**. Transformo dados brutos em decisões inteligentes, garantindo que a "tolerância" dos dados seja tão apertada quanto a das peças que eu costumava fabricar.
+Minha base não foi construída em salas de aula, mas no chão de fábrica, entre tornos e óleo. Na **usinagem de precisão**, aprendi a lição mais valiosa da minha carreira: **um erro de 0.01mm não é um detalhe, é uma falha catastrófica.** 
 
----
+Essa disciplina de "tolerância zero" moldou minha forma de encarar a Engenharia de Dados. Para mim, um pipeline não é apenas um código que move dados, mas um processo industrial que deve ser:
+- **Previsível:** Sem surpresas em produção.
+- **Resiliente:** Capaz de recuperar-se de falhas sem perda de integridade.
+- **Preciso:** Onde a qualidade do dado na saída é tão rigorosa quanto a peça final de um torno CNC.
 
-## 🚀 Tech Stack Principal
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+Hoje, substituo as ferramentas de medição por Python, SQL e AWS, mas mantenho a mesma obsessão: **garantir que o dado chegue ao destino com precisão absoluta.**
 
 ---
 
-## 💼 Projetos em Destaque
+## 🚀 Tech Stack & Ferramentaria
 
-### 🏥 [Pipeline de Integração - Clínicas Sanare e Reviver](https://github.com/tmarsbr/projeto_pipeline)
-> **Desafio:** Unificar sistemas de duas clínicas médicas durante uma fusão.
-- **Solução:** Desenvolvi um pipeline ETL robusto em Python (OOP) que migrou **+10k registros**.
-- **Resultado:** **99.9% de precisão** na migração e zero downtime para as clínicas.
-- `Python` `OOP` `ETL` `Data Quality`
+Sigo a filosofia de usar a ferramenta certa para o problema certo, priorizando a estabilidade e a escalabilidade.
 
-### 🐙 [Extração e Análise - Repositórios GitHub](https://github.com/tmarsbr/Projeto_api)
-> **Desafio:** Analisar tendências de desenvolvimento em grandes empresas tech.
-- **Solução:** Sistema automatizado via API do GitHub para extração de dados de **+1000 repositórios**.
-- **Resultado:** Insights estratégicos sobre stacks e frequência de commits de 15 gigantes da tecnologia.
-- `Python` `GitHub API` `Pandas` `Requests`
-
-### 🔄 [Pipeline Python - MongoDB - MySQL](https://github.com/tmarsbr/pipeline-python-mongo-mysql)
-> **Desafio:** Otimizar o tempo de análise da equipe de BI de um e-commerce.
-- **Solução:** Integração automatizada entre bancos NoSQL e Relacionais.
-- **Resultado:** Redução de **70% no tempo de processamento** e análise de dados.
-- `Python` `MongoDB` `MySQL` `ETL`
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 💼 Engenharia Aplicada (Cases)
+
+### 🏥 Fusão de Dados: Clínicas Sanare & Reviver
+**O cenário:** Duas operações médicas fundindo-se, com dados fragmentados e incompatíveis. O risco era a perda de histórico clínico de pacientes.
+- **A abordagem:** Construí um pipeline ETL utilizando Programação Orientada a Objetos (OOP) para garantir modularidade e fácil manutenção. Implementei camadas de validação de *Data Quality* para barrar inconsistências antes do load.
+- **O impacto:** Migração de **+10k registros com 99.9% de precisão**, garantindo a continuidade do atendimento médico sem downtime.
+- `Python` `OOP` `ETL` `Data Quality` $\rightarrow$ [Ver Projeto](https://github.com/tmarsbr/projeto_pipeline)
+
+### 🐙 Inteligência de Mercado via GitHub API
+**O cenário:** Como entender a stack tecnológica de 15 gigantes da tech sem análise manual de milhares de repositórios?
+- **A abordagem:** Desenvolvi um sistema automatizado de extração de dados via API do GitHub, processando informações de **+1000 repositórios** e normalizando esses dados para análise de tendências.
+- **O impacto:** Transformei dados brutos de API em insights estratégicos sobre frequência de commits e tecnologias dominantes.
+- `Python` `GitHub API` `Pandas` `Requests` $\rightarrow$ [Ver Projeto](https://github.com/tmarsbr/Projeto_api)
+
+### 🔄 Otimização de Fluxo NoSQL $\rightarrow$ Relacional
+**O cenário:** Uma equipe de BI de e-commerce perdia horas em processamentos manuais para extrair insights de um banco MongoDB.
+- **A abordagem:** Implementei a automação do fluxo de dados entre MongoDB e MySQL, eliminando gargalos de extração e transformando a estrutura de dados para consumo imediato via SQL.
+- **O impacto:** Redução drástica de **70% no tempo de processamento**, permitindo que a equipe de BI focasse em análise e não em limpeza de dados.
+- `Python` `MongoDB` `MySQL` `ETL` $\rightarrow$ [Ver Projeto](https://github.com/tmarsbr/pipeline-python-mongo-mysql)
+
+---
+
+## 📊 Performance & Atividade
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tmarsbr&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmarsbr&layout=compact&langs_count=7&theme=transparent" />
@@ -57,8 +58,9 @@ Hoje, aplico esse mesmo rigor técnico para construir **pipelines de dados resil
 
 ---
 
-## 📫 Vamos Conversar?
-Estou sempre aberto para discussões sobre engenharia de dados, parcerias em projetos ou apenas para trocar experiências!
+## 📫 Vamos construir algo sólido?
+
+Se você busca um engenheiro que não apenas escreve código, mas que projeta processos confiáveis e com mentalidade de produção, vamos conversar.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiagodados)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511975429994)
@@ -68,5 +70,3 @@ Estou sempre aberto para discussões sobre engenharia de dados, parcerias em pro
 <p align="center">
   <em>"Tolerância apertada e processo confiável geram qualidade — em aço e em dados."</em>
 </p>
-
-.
